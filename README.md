@@ -3,8 +3,8 @@
 
 # Installation
 
-This is a Google book search built with GraphQL and Apollo server. 
-It utilizes the following:
+This is a Google book search built with GraphQL and Apollo server.  
+It utilizes the following so please make sure to run and npm i and then npm run develop to start:
 
 * Express.js
 * GraphQL
