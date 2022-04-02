@@ -10,7 +10,6 @@ It utilizes the following:
 * GraphQL
 * MongoDB / MongooseODM
 * Node.js
-* Queries/Mutations
 * React
 
 ## Preview
